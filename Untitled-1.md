@@ -1,1 +1,0 @@
-https://github.com/trent-shipley/dummyPacktRepository
